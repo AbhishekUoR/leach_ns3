@@ -1,0 +1,15 @@
+<Test>
+  <Name>ns3-tcp-socket</Name>
+  <Result>PASS</Result>
+  <Time real="0.030" user="0.020" system="0.000"/>
+  <Test>
+    <Name>Check that ns-3 TCP successfully transfers an application data write of various sizes (point-to-point)</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Check to see that ns-3 TCP successfully transfers an application data write of various sizes (CSMA)</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+</Test>

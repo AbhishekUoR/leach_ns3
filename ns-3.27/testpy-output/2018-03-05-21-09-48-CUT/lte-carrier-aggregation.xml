@@ -1,0 +1,35 @@
+<Test>
+  <Name>lte-carrier-aggregation</Name>
+  <Result>PASS</Result>
+  <Time real="40.060" user="36.180" system="1.230"/>
+  <Test>
+    <Name>1 UEs, distance 4800 m dlBandwidth 25 ulBandwidth 25 number of carriers 2</Name>
+    <Result>PASS</Result>
+    <Time real="2.650" user="2.500" system="0.110"/>
+  </Test>
+  <Test>
+    <Name>15 UEs, distance 20000 m dlBandwidth 25 ulBandwidth 25 number of carriers 2</Name>
+    <Result>PASS</Result>
+    <Time real="14.950" user="12.320" system="0.380"/>
+  </Test>
+  <Test>
+    <Name>3 UEs, distance 0 m dlBandwidth 25 ulBandwidth 25 number of carriers 3</Name>
+    <Result>PASS</Result>
+    <Time real="6.500" user="6.180" system="0.220"/>
+  </Test>
+  <Test>
+    <Name>1 UEs, distance 4800 m dlBandwidth 25 ulBandwidth 25 number of carriers 3</Name>
+    <Result>PASS</Result>
+    <Time real="3.470" user="3.300" system="0.090"/>
+  </Test>
+  <Test>
+    <Name>1 UEs, distance 4800 m dlBandwidth 6 ulBandwidth 6 number of carriers 3</Name>
+    <Result>PASS</Result>
+    <Time real="2.830" user="2.630" system="0.150"/>
+  </Test>
+  <Test>
+    <Name>15 UEs, distance 6000 m dlBandwidth 6 ulBandwidth 6 number of carriers 2</Name>
+    <Result>PASS</Result>
+    <Time real="9.660" user="9.250" system="0.280"/>
+  </Test>
+</Test>

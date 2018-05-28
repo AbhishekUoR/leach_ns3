@@ -1,0 +1,120 @@
+<Test>
+  <Name>random-variable-stream-generators</Name>
+  <Result>PASS</Result>
+  <Time real="21.890" user="21.620" system="0.010"/>
+  <Test>
+    <Name>Uniform Random Variable Stream Generator</Name>
+    <Result>PASS</Result>
+    <Time real="0.170" user="0.180" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Antithetic Uniform Random Variable Stream Generator</Name>
+    <Result>PASS</Result>
+    <Time real="0.550" user="0.540" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Constant Random Variable Stream Generator</Name>
+    <Result>PASS</Result>
+    <Time real="0.030" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Sequential Random Variable Stream Generator</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Normal Random Variable Stream Generator</Name>
+    <Result>PASS</Result>
+    <Time real="1.020" user="1.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Antithetic Normal Random Variable Stream Generator</Name>
+    <Result>PASS</Result>
+    <Time real="1.040" user="1.030" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Exponential Random Variable Stream Generator</Name>
+    <Result>PASS</Result>
+    <Time real="1.370" user="1.350" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Antithetic Exponential Random Variable Stream Generator</Name>
+    <Result>PASS</Result>
+    <Time real="1.390" user="1.380" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Pareto Random Variable Stream Generator</Name>
+    <Result>PASS</Result>
+    <Time real="1.710" user="1.690" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Antithetic Pareto Random Variable Stream Generator</Name>
+    <Result>PASS</Result>
+    <Time real="1.710" user="1.700" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Weibull Random Variable Stream Generator</Name>
+    <Result>PASS</Result>
+    <Time real="1.060" user="1.050" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Antithetic Weibull Random Variable Stream Generator</Name>
+    <Result>PASS</Result>
+    <Time real="1.150" user="1.130" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Log-Normal Random Variable Stream Generator</Name>
+    <Result>PASS</Result>
+    <Time real="2.480" user="2.440" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Gamma Random Variable Stream Generator</Name>
+    <Result>PASS</Result>
+    <Time real="2.650" user="2.610" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Erlang Random Variable Stream Generator</Name>
+    <Result>PASS</Result>
+    <Time real="2.090" user="2.060" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Antithetic Erlang Random Variable Stream Generator</Name>
+    <Result>PASS</Result>
+    <Time real="2.050" user="2.020" system="0.010"/>
+  </Test>
+  <Test>
+    <Name>Zipf Random Variable Stream Generator</Name>
+    <Result>PASS</Result>
+    <Time real="0.110" user="0.110" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Antithetic Zipf Random Variable Stream Generator</Name>
+    <Result>PASS</Result>
+    <Time real="0.120" user="0.120" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Zeta Random Variable Stream Generator</Name>
+    <Result>PASS</Result>
+    <Time real="0.460" user="0.450" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Antithetic Zeta Random Variable Stream Generator</Name>
+    <Result>PASS</Result>
+    <Time real="0.440" user="0.440" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Deterministic Random Variable Stream Generator</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Empirical Random Variable Stream Generator</Name>
+    <Result>PASS</Result>
+    <Time real="0.150" user="0.150" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>EmpiricalAntithetic Random Variable Stream Generator</Name>
+    <Result>PASS</Result>
+    <Time real="0.140" user="0.140" system="0.000"/>
+  </Test>
+</Test>

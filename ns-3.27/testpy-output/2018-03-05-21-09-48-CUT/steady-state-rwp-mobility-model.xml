@@ -1,0 +1,10 @@
+<Test>
+  <Name>steady-state-rwp-mobility-model</Name>
+  <Result>PASS</Result>
+  <Time real="3.600" user="3.550" system="0.000"/>
+  <Test>
+    <Name>Check steady-state rwp mobility model velocity and position distributions</Name>
+    <Result>PASS</Result>
+    <Time real="3.580" user="3.540" system="0.000"/>
+  </Test>
+</Test>

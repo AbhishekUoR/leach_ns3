@@ -1,0 +1,10 @@
+<Test>
+  <Name>lte-aggregation-throughput-scale</Name>
+  <Result>PASS</Result>
+  <Time real="29.050" user="28.380" system="0.030"/>
+  <Test>
+    <Name>Carrier aggregation throughput scale</Name>
+    <Result>PASS</Result>
+    <Time real="29.050" user="28.380" system="0.030"/>
+  </Test>
+</Test>

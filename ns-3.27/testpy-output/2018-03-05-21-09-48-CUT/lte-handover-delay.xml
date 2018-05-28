@@ -1,0 +1,105 @@
+<Test>
+  <Name>lte-handover-delay</Name>
+  <Result>PASS</Result>
+  <Time real="2.940" user="2.910" system="0.000"/>
+  <Test>
+    <Name>Verifying that the time needed for handover is under a specified threshold</Name>
+    <Result>PASS</Result>
+    <Time real="0.160" user="0.160" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Verifying that the time needed for handover is under a specified threshold</Name>
+    <Result>PASS</Result>
+    <Time real="0.130" user="0.130" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Verifying that the time needed for handover is under a specified threshold</Name>
+    <Result>PASS</Result>
+    <Time real="0.140" user="0.130" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Verifying that the time needed for handover is under a specified threshold</Name>
+    <Result>PASS</Result>
+    <Time real="0.130" user="0.140" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Verifying that the time needed for handover is under a specified threshold</Name>
+    <Result>PASS</Result>
+    <Time real="0.150" user="0.140" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Verifying that the time needed for handover is under a specified threshold</Name>
+    <Result>PASS</Result>
+    <Time real="0.130" user="0.120" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Verifying that the time needed for handover is under a specified threshold</Name>
+    <Result>PASS</Result>
+    <Time real="0.150" user="0.160" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Verifying that the time needed for handover is under a specified threshold</Name>
+    <Result>PASS</Result>
+    <Time real="0.150" user="0.140" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Verifying that the time needed for handover is under a specified threshold</Name>
+    <Result>PASS</Result>
+    <Time real="0.130" user="0.130" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Verifying that the time needed for handover is under a specified threshold</Name>
+    <Result>PASS</Result>
+    <Time real="0.130" user="0.130" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Verifying that the time needed for handover is under a specified threshold</Name>
+    <Result>PASS</Result>
+    <Time real="0.140" user="0.140" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Verifying that the time needed for handover is under a specified threshold</Name>
+    <Result>PASS</Result>
+    <Time real="0.150" user="0.140" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Verifying that the time needed for handover is under a specified threshold</Name>
+    <Result>PASS</Result>
+    <Time real="0.140" user="0.140" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Verifying that the time needed for handover is under a specified threshold</Name>
+    <Result>PASS</Result>
+    <Time real="0.150" user="0.160" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Verifying that the time needed for handover is under a specified threshold</Name>
+    <Result>PASS</Result>
+    <Time real="0.160" user="0.150" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Verifying that the time needed for handover is under a specified threshold</Name>
+    <Result>PASS</Result>
+    <Time real="0.170" user="0.170" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Verifying that the time needed for handover is under a specified threshold</Name>
+    <Result>PASS</Result>
+    <Time real="0.160" user="0.160" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Verifying that the time needed for handover is under a specified threshold</Name>
+    <Result>PASS</Result>
+    <Time real="0.160" user="0.160" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Verifying that the time needed for handover is under a specified threshold</Name>
+    <Result>PASS</Result>
+    <Time real="0.170" user="0.170" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Verifying that the time needed for handover is under a specified threshold</Name>
+    <Result>PASS</Result>
+    <Time real="0.140" user="0.140" system="0.000"/>
+  </Test>
+</Test>

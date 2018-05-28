@@ -1,0 +1,130 @@
+<Test>
+  <Name>lte-antenna</Name>
+  <Result>PASS</Result>
+  <Time real="0.540" user="0.530" system="0.000"/>
+  <Test>
+    <Name>o=0, bw=90, x=1, y=0</Name>
+    <Result>PASS</Result>
+    <Time real="0.050" user="0.040" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>o=0, bw=90, x=1, y=1</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>o=0, bw=90, x=1, y=-1</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>o=0, bw=90, x=-1, y=-1</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>o=0, bw=90, x=-1, y=-0</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>o=0, bw=90, x=-1, y=1</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>o=45, bw=90, x=1, y=1</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>o=-45, bw=90, x=1, y=-1</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>o=90, bw=90, x=1, y=1</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>o=-90, bw=90, x=1, y=-1</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>o=0, bw=120, x=1, y=0</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>o=0, bw=120, x=0.5, y=0.866025</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>o=0, bw=120, x=0.5, y=-0.866025</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>o=0, bw=120, x=-1, y=-2</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>o=0, bw=120, x=-1, y=1</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>o=60, bw=120, x=0.5, y=0.866025</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>o=-60, bw=120, x=0.5, y=-0.866025</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>o=-60, bw=120, x=0.5, y=-0.866025</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>o=-120, bw=120, x=-0.5, y=-0.866025</Name>
+    <Result>PASS</Result>
+    <Time real="0.030" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>o=-120, bw=120, x=0.5, y=-0.866025</Name>
+    <Result>PASS</Result>
+    <Time real="0.030" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>o=-120, bw=120, x=-1, y=0</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>o=-120, bw=120, x=-1, y=2</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>o=-120, bw=120, x=1, y=0</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>o=-120, bw=120, x=1, y=2</Name>
+    <Result>PASS</Result>
+    <Time real="0.030" user="0.030" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>o=-120, bw=120, x=1, y=-0.1</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.020" system="0.000"/>
+  </Test>
+</Test>

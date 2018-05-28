@@ -1,0 +1,185 @@
+<Test>
+  <Name>lte-link-adaptation</Name>
+  <Result>PASS</Result>
+  <Time real="0.900" user="0.880" system="0.020"/>
+  <Test>
+    <Name> snr= -5 dB,  mcs= -1</Name>
+    <Result>PASS</Result>
+    <Time real="0.050" user="0.040" system="0.010"/>
+  </Test>
+  <Test>
+    <Name> snr= -4 dB,  mcs= -1</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name> snr= -3 dB,  mcs= -1</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name> snr= -2 dB,  mcs= 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name> snr= -1 dB,  mcs= 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.030" user="0.030" system="0.000"/>
+  </Test>
+  <Test>
+    <Name> snr= 0 dB,  mcs= 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name> snr= 1 dB,  mcs= 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name> snr= 2 dB,  mcs= 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name> snr= 3 dB,  mcs= 4</Name>
+    <Result>PASS</Result>
+    <Time real="0.030" user="0.030" system="0.000"/>
+  </Test>
+  <Test>
+    <Name> snr= 4 dB,  mcs= 4</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name> snr= 5 dB,  mcs= 6</Name>
+    <Result>PASS</Result>
+    <Time real="0.030" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name> snr= 6 dB,  mcs= 6</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.030" system="0.000"/>
+  </Test>
+  <Test>
+    <Name> snr= 7 dB,  mcs= 8</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name> snr= 8 dB,  mcs= 8</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name> snr= 9 dB,  mcs= 10</Name>
+    <Result>PASS</Result>
+    <Time real="0.030" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name> snr= 10 dB,  mcs= 12</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.030" system="0.000"/>
+  </Test>
+  <Test>
+    <Name> snr= 11 dB,  mcs= 12</Name>
+    <Result>PASS</Result>
+    <Time real="0.030" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name> snr= 12 dB,  mcs= 14</Name>
+    <Result>PASS</Result>
+    <Time real="0.030" user="0.030" system="0.000"/>
+  </Test>
+  <Test>
+    <Name> snr= 13 dB,  mcs= 14</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name> snr= 14 dB,  mcs= 16</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.020" system="0.010"/>
+  </Test>
+  <Test>
+    <Name> snr= 15 dB,  mcs= 18</Name>
+    <Result>PASS</Result>
+    <Time real="0.030" user="0.030" system="0.000"/>
+  </Test>
+  <Test>
+    <Name> snr= 16 dB,  mcs= 18</Name>
+    <Result>PASS</Result>
+    <Time real="0.030" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name> snr= 17 dB,  mcs= 20</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.030" system="0.000"/>
+  </Test>
+  <Test>
+    <Name> snr= 18 dB,  mcs= 20</Name>
+    <Result>PASS</Result>
+    <Time real="0.030" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name> snr= 19 dB,  mcs= 22</Name>
+    <Result>PASS</Result>
+    <Time real="0.030" user="0.030" system="0.000"/>
+  </Test>
+  <Test>
+    <Name> snr= 20 dB,  mcs= 22</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.030" system="0.000"/>
+  </Test>
+  <Test>
+    <Name> snr= 21 dB,  mcs= 24</Name>
+    <Result>PASS</Result>
+    <Time real="0.030" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name> snr= 22 dB,  mcs= 24</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name> snr= 23 dB,  mcs= 26</Name>
+    <Result>PASS</Result>
+    <Time real="0.030" user="0.030" system="0.000"/>
+  </Test>
+  <Test>
+    <Name> snr= 24 dB,  mcs= 26</Name>
+    <Result>PASS</Result>
+    <Time real="0.030" user="0.030" system="0.000"/>
+  </Test>
+  <Test>
+    <Name> snr= 25 dB,  mcs= 28</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name> snr= 26 dB,  mcs= 28</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.030" system="0.000"/>
+  </Test>
+  <Test>
+    <Name> snr= 27 dB,  mcs= 28</Name>
+    <Result>PASS</Result>
+    <Time real="0.030" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name> snr= 28 dB,  mcs= 28</Name>
+    <Result>PASS</Result>
+    <Time real="0.030" user="0.030" system="0.000"/>
+  </Test>
+  <Test>
+    <Name> snr= 29 dB,  mcs= 28</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name> snr= 30 dB,  mcs= 28</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.030" system="0.000"/>
+  </Test>
+</Test>

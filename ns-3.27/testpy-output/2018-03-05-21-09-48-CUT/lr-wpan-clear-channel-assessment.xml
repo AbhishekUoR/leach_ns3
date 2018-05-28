@@ -1,0 +1,10 @@
+<Test>
+  <Name>lr-wpan-clear-channel-assessment</Name>
+  <Result>PASS</Result>
+  <Time real="0.000" user="0.010" system="0.010"/>
+  <Test>
+    <Name>Test the 802.15.4 clear channel assessment</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.010" system="0.010"/>
+  </Test>
+</Test>

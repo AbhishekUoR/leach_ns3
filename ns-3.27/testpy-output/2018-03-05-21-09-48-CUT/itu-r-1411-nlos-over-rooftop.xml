@@ -1,0 +1,15 @@
+<Test>
+  <Name>itu-r-1411-nlos-over-rooftop</Name>
+  <Result>PASS</Result>
+  <Time real="0.000" user="0.000" system="0.000"/>
+  <Test>
+    <Name>f=2114Mhz, dist=900, urban large city</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>f=2114Mhz, dist=900, urban large city</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+</Test>

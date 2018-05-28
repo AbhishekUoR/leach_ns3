@@ -1,0 +1,25 @@
+<Test>
+  <Name>lte-mimo</Name>
+  <Result>PASS</Result>
+  <Time real="2.710" user="2.580" system="0.090"/>
+  <Test>
+    <Name> UE distance 300 m Scheduler ns3::RrFfMacScheduler, ideal RRC</Name>
+    <Result>PASS</Result>
+    <Time real="0.660" user="0.640" system="0.000"/>
+  </Test>
+  <Test>
+    <Name> UE distance 300 m Scheduler ns3::PfFfMacScheduler, ideal RRC</Name>
+    <Result>PASS</Result>
+    <Time real="0.690" user="0.660" system="0.030"/>
+  </Test>
+  <Test>
+    <Name> UE distance 300 m Scheduler ns3::RrFfMacScheduler, real RRC</Name>
+    <Result>PASS</Result>
+    <Time real="0.660" user="0.620" system="0.030"/>
+  </Test>
+  <Test>
+    <Name> UE distance 300 m Scheduler ns3::PfFfMacScheduler, real RRC</Name>
+    <Result>PASS</Result>
+    <Time real="0.700" user="0.660" system="0.030"/>
+  </Test>
+</Test>

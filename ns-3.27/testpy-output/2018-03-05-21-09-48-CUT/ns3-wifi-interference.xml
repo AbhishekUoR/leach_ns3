@@ -1,0 +1,10 @@
+<Test>
+  <Name>ns3-wifi-interference</Name>
+  <Result>PASS</Result>
+  <Time real="0.050" user="0.050" system="0.000"/>
+  <Test>
+    <Name>Test interference calculation when interfering frame exactly overlaps intended frame</Name>
+    <Result>PASS</Result>
+    <Time real="0.050" user="0.050" system="0.000"/>
+  </Test>
+</Test>

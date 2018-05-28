@@ -1,0 +1,25 @@
+<Test>
+  <Name>lte-uplink-sinr</Name>
+  <Result>PASS</Result>
+  <Time real="0.000" user="0.010" system="0.000"/>
+  <Test>
+    <Name>SINR calculation in uplink data frame: sdBm = [-46 -inf] and [-inf -48]</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>SINR calculation in uplink srs frame: sdBm = [-46 -inf] and [-inf -48]</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>SINR calculation in uplink data frame: sdBm = [-63 -inf] and [-inf -61]</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>SINR calculation in uplink srs frame: sdBm = [-63 -inf] and [-inf -61]</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+</Test>

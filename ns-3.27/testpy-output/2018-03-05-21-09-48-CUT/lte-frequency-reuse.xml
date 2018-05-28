@@ -1,0 +1,230 @@
+<Test>
+  <Name>lte-frequency-reuse</Name>
+  <Result>PASS</Result>
+  <Time real="181.910" user="178.580" system="0.210"/>
+  <Test>
+    <Name>Test: DownlinkHardFrPf1</Name>
+    <Result>PASS</Result>
+    <Time real="0.590" user="0.590" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: DownlinkHardFrPf2</Name>
+    <Result>PASS</Result>
+    <Time real="1.780" user="1.740" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: DownlinkHardFrPss1</Name>
+    <Result>PASS</Result>
+    <Time real="0.710" user="0.690" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: DownlinkHardFrPss2</Name>
+    <Result>PASS</Result>
+    <Time real="1.570" user="1.560" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: DownlinkHardFrCqa1</Name>
+    <Result>PASS</Result>
+    <Time real="0.280" user="0.270" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: DownlinkHardFrCqa2</Name>
+    <Result>PASS</Result>
+    <Time real="0.960" user="0.950" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: DownlinkHardFrFdTbfq1</Name>
+    <Result>PASS</Result>
+    <Time real="0.250" user="0.250" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: DownlinkHardFrFdTbfq2</Name>
+    <Result>PASS</Result>
+    <Time real="0.940" user="0.930" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: DownlinkHardFrTdTbfq1</Name>
+    <Result>PASS</Result>
+    <Time real="0.640" user="0.630" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: DownlinkHardFrTdTbfq2</Name>
+    <Result>PASS</Result>
+    <Time real="1.630" user="1.610" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: DownlinkStrictFrPf1</Name>
+    <Result>PASS</Result>
+    <Time real="0.570" user="0.560" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: DownlinkStrictFrPf2</Name>
+    <Result>PASS</Result>
+    <Time real="1.710" user="1.680" system="0.010"/>
+  </Test>
+  <Test>
+    <Name>Test: DownlinkStrictFrPss1</Name>
+    <Result>PASS</Result>
+    <Time real="0.660" user="0.640" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: DownlinkStrictFrPss2</Name>
+    <Result>PASS</Result>
+    <Time real="1.480" user="1.480" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: DownlinkStrictFrCqa1</Name>
+    <Result>PASS</Result>
+    <Time real="0.270" user="0.260" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: DownlinkStrictFrCqa2</Name>
+    <Result>PASS</Result>
+    <Time real="1.020" user="1.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: DownlinkStrictFrCqaFdTbfq1</Name>
+    <Result>PASS</Result>
+    <Time real="0.260" user="0.250" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: DownlinkStrictFrCqaFdTbfq2</Name>
+    <Result>PASS</Result>
+    <Time real="0.910" user="0.900" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: DownlinkStrictFrCqaTdTbfq1</Name>
+    <Result>PASS</Result>
+    <Time real="0.590" user="0.590" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: DownlinkStrictFrCqaTdTbfq2</Name>
+    <Result>PASS</Result>
+    <Time real="1.340" user="1.320" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: LteStrictFrAreaTestCasePf1</Name>
+    <Result>PASS</Result>
+    <Time real="3.520" user="3.470" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: LteStrictFrAreaTestCasePss1</Name>
+    <Result>PASS</Result>
+    <Time real="3.250" user="3.210" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: LteStrictFrAreaTestCaseCqa1</Name>
+    <Result>PASS</Result>
+    <Time real="3.900" user="3.830" system="0.010"/>
+  </Test>
+  <Test>
+    <Name>Test: LteStrictFrAreaTestCaseFdTbfq1</Name>
+    <Result>PASS</Result>
+    <Time real="2.600" user="2.570" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: LteStrictFrAreaTestCaseTdTbfq1</Name>
+    <Result>PASS</Result>
+    <Time real="3.100" user="3.070" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: LteSoftFrAreaTestCasePf1</Name>
+    <Result>PASS</Result>
+    <Time real="3.420" user="3.370" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: LteSoftFrAreaTestCasePss1</Name>
+    <Result>PASS</Result>
+    <Time real="3.540" user="3.490" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: LteSoftFrAreaTestCaseCqa1</Name>
+    <Result>PASS</Result>
+    <Time real="3.770" user="3.720" system="0.010"/>
+  </Test>
+  <Test>
+    <Name>Test: LteSoftFrAreaTestCaseFdTbfq1</Name>
+    <Result>PASS</Result>
+    <Time real="2.750" user="2.710" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: LteSoftFrAreaTestCaseTdTbfq1</Name>
+    <Result>PASS</Result>
+    <Time real="3.450" user="3.400" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: LteSoftFfrAreaTestCasePf1</Name>
+    <Result>PASS</Result>
+    <Time real="5.570" user="5.510" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: LteSoftFfrAreaTestCasePss1</Name>
+    <Result>PASS</Result>
+    <Time real="5.560" user="5.490" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: LteSoftFfrAreaTestCaseCqa1</Name>
+    <Result>PASS</Result>
+    <Time real="6.220" user="6.130" system="0.010"/>
+  </Test>
+  <Test>
+    <Name>Test: LteSoftFfrAreaTestCaseFdTbfq1</Name>
+    <Result>PASS</Result>
+    <Time real="4.560" user="4.480" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: LteSoftFfrAreaTestCaseTdTbfq1</Name>
+    <Result>PASS</Result>
+    <Time real="5.930" user="5.420" system="0.060"/>
+  </Test>
+  <Test>
+    <Name>Test: LteEnhancedFfrAreaTestCasePf1</Name>
+    <Result>PASS</Result>
+    <Time real="6.020" user="5.910" system="0.010"/>
+  </Test>
+  <Test>
+    <Name>Test: LteEnhancedFfrAreaTestCasePss1</Name>
+    <Result>PASS</Result>
+    <Time real="5.930" user="5.850" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: LteEnhancedFfrAreaTestCaseCqa1</Name>
+    <Result>PASS</Result>
+    <Time real="6.970" user="6.700" system="0.050"/>
+  </Test>
+  <Test>
+    <Name>Test: LteEnhancedFfrAreaTestCaseFdTbfq1</Name>
+    <Result>PASS</Result>
+    <Time real="5.180" user="5.100" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: LteEnhancedFfrAreaTestCaseTdTbfq1</Name>
+    <Result>PASS</Result>
+    <Time real="6.460" user="6.340" system="0.010"/>
+  </Test>
+  <Test>
+    <Name>Test: LteDistributedFfrAreaTestCasePf1</Name>
+    <Result>PASS</Result>
+    <Time real="15.410" user="15.200" system="0.010"/>
+  </Test>
+  <Test>
+    <Name>Test: LteDistributedFfrAreaTestCasePss1</Name>
+    <Result>PASS</Result>
+    <Time real="14.930" user="14.530" system="0.010"/>
+  </Test>
+  <Test>
+    <Name>Test: LteDistributedFfrAreaTestCaseCqa1</Name>
+    <Result>PASS</Result>
+    <Time real="15.550" user="15.340" system="0.010"/>
+  </Test>
+  <Test>
+    <Name>Test: LteDistributedFfrAreaTestCaseFdTbfq1</Name>
+    <Result>PASS</Result>
+    <Time real="11.960" user="11.820" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: LteDistributedFfrAreaTestCaseTdTbfq1</Name>
+    <Result>PASS</Result>
+    <Time real="14.200" user="14.020" system="0.010"/>
+  </Test>
+</Test>

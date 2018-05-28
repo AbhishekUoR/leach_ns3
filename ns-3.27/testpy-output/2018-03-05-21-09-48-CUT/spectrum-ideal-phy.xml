@@ -1,0 +1,425 @@
+<Test>
+  <Name>spectrum-ideal-phy</Name>
+  <Result>PASS</Result>
+  <Time real="1.020" user="1.000" system="0.000"/>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 0.01 (linear),  phyRate = 28710 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.030" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 0.01 (linear),  phyRate = 143552 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 0.01 (linear),  phyRate = 272750 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 0.01 (linear),  phyRate = 301461 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 0.01 (linear),  phyRate = 574211 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 0.01 (linear),  phyRate = 1148423 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 0.02 (linear),  phyRate = 57138 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 0.02 (linear),  phyRate = 285691 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 0.02 (linear),  phyRate = 542813 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 0.02 (linear),  phyRate = 599952 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 0.02 (linear),  phyRate = 1142766 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 0.02 (linear),  phyRate = 2285532 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 0.04 (linear),  phyRate = 113167 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 0.04 (linear),  phyRate = 565835 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 0.04 (linear),  phyRate = 1075087 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 0.04 (linear),  phyRate = 1188254 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 0.04 (linear),  phyRate = 2263341 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 0.04 (linear),  phyRate = 4526682 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 0.08 (linear),  phyRate = 222062 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 0.08 (linear),  phyRate = 1110313 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 0.08 (linear),  phyRate = 2109594 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 0.08 (linear),  phyRate = 2331657 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 0.08 (linear),  phyRate = 4441252 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 0.08 (linear),  phyRate = 8882504 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 0.16 (linear),  phyRate = 428249 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 0.16 (linear),  phyRate = 2141248 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 0.16 (linear),  phyRate = 4068371 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 0.16 (linear),  phyRate = 4496620 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 0.16 (linear),  phyRate = 8564992 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 0.16 (linear),  phyRate = 17129984 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 0.32 (linear),  phyRate = 801075 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 0.32 (linear),  phyRate = 4005379 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 0.32 (linear),  phyRate = 7610220 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 0.32 (linear),  phyRate = 8411296 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 0.32 (linear),  phyRate = 16021517 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 0.32 (linear),  phyRate = 32043034 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 0.64 (linear),  phyRate = 1427391 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 0.64 (linear),  phyRate = 7136958 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 0.64 (linear),  phyRate = 13560220 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 0.64 (linear),  phyRate = 14987612 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 0.64 (linear),  phyRate = 28547832 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 0.64 (linear),  phyRate = 57095665 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 1.28 (linear),  phyRate = 2378067 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 1.28 (linear),  phyRate = 11890338 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 1.28 (linear),  phyRate = 22591642 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 1.28 (linear),  phyRate = 24969710 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 1.28 (linear),  phyRate = 47561352 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 1.28 (linear),  phyRate = 95122705 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 2.56 (linear),  phyRate = 3663754 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 2.56 (linear),  phyRate = 18318772 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 2.56 (linear),  phyRate = 34805667 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 2.56 (linear),  phyRate = 38469422 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 2.56 (linear),  phyRate = 73275089 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 2.56 (linear),  phyRate = 146550179 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 5.12 (linear),  phyRate = 5227063 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 5.12 (linear),  phyRate = 26135316 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 5.12 (linear),  phyRate = 49657101 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 5.12 (linear),  phyRate = 54884164 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 5.12 (linear),  phyRate = 104541266 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::SingleModelSpectrumChannel snr = 5.12 (linear),  phyRate = 209082532 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::MultiModelSpectrumChannel snr = 0.01 (linear),  phyRate = 28710 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::MultiModelSpectrumChannel snr = 0.01 (linear),  phyRate = 143552 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::MultiModelSpectrumChannel snr = 0.01 (linear),  phyRate = 272750 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::MultiModelSpectrumChannel snr = 0.01 (linear),  phyRate = 301461 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::MultiModelSpectrumChannel snr = 0.01 (linear),  phyRate = 574211 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::MultiModelSpectrumChannel snr = 0.01 (linear),  phyRate = 1148423 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::MultiModelSpectrumChannel snr = 0.1 (linear),  phyRate = 275007 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::MultiModelSpectrumChannel snr = 0.1 (linear),  phyRate = 1375035 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::MultiModelSpectrumChannel snr = 0.1 (linear),  phyRate = 2612566 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::MultiModelSpectrumChannel snr = 0.1 (linear),  phyRate = 2887573 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::MultiModelSpectrumChannel snr = 0.1 (linear),  phyRate = 5500140 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::MultiModelSpectrumChannel snr = 0.1 (linear),  phyRate = 11000281 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::MultiModelSpectrumChannel snr = 1 (linear),  phyRate = 2000000 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::MultiModelSpectrumChannel snr = 1 (linear),  phyRate = 10000000 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::MultiModelSpectrumChannel snr = 1 (linear),  phyRate = 19000000 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::MultiModelSpectrumChannel snr = 1 (linear),  phyRate = 21000000 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::MultiModelSpectrumChannel snr = 1 (linear),  phyRate = 40000000 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::MultiModelSpectrumChannel snr = 1 (linear),  phyRate = 80000000 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::MultiModelSpectrumChannel snr = 10 (linear),  phyRate = 6918863 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::MultiModelSpectrumChannel snr = 10 (linear),  phyRate = 34594316 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::MultiModelSpectrumChannel snr = 10 (linear),  phyRate = 65729200 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::MultiModelSpectrumChannel snr = 10 (linear),  phyRate = 72648063 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::MultiModelSpectrumChannel snr = 10 (linear),  phyRate = 138377264 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>ns3::MultiModelSpectrumChannel snr = 10 (linear),  phyRate = 276754529 bps</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+</Test>

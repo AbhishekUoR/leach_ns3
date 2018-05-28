@@ -1,0 +1,15 @@
+<Test>
+  <Name>lte-tdmt-ff-mac-scheduler</Name>
+  <Result>PASS</Result>
+  <Time real="2.720" user="2.660" system="0.030"/>
+  <Test>
+    <Name>3 UEs, distance 0 m</Name>
+    <Result>PASS</Result>
+    <Time real="2.400" user="2.340" system="0.030"/>
+  </Test>
+  <Test>
+    <Name>1 UEs, distance 100000 m</Name>
+    <Result>PASS</Result>
+    <Time real="0.320" user="0.320" system="0.000"/>
+  </Test>
+</Test>

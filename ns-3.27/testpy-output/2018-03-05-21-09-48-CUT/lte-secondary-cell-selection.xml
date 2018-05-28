@@ -1,0 +1,25 @@
+<Test>
+  <Name>lte-secondary-cell-selection</Name>
+  <Result>PASS</Result>
+  <Time real="27.930" user="27.540" system="0.030"/>
+  <Test>
+    <Name>EPC, real RRC, RngRun=1</Name>
+    <Result>PASS</Result>
+    <Time real="3.200" user="3.150" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>EPC, real RRC, RngRun=1</Name>
+    <Result>PASS</Result>
+    <Time real="10.910" user="10.770" system="0.010"/>
+  </Test>
+  <Test>
+    <Name>EPC, ideal RRC, RngRun=1</Name>
+    <Result>PASS</Result>
+    <Time real="3.070" user="3.010" system="0.010"/>
+  </Test>
+  <Test>
+    <Name>EPC, ideal RRC, RngRun=1</Name>
+    <Result>PASS</Result>
+    <Time real="10.750" user="10.610" system="0.010"/>
+  </Test>
+</Test>

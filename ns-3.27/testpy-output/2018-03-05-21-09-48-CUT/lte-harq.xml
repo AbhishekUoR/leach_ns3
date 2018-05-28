@@ -1,0 +1,15 @@
+<Test>
+  <Name>lte-harq</Name>
+  <Result>PASS</Result>
+  <Time real="4.250" user="4.090" system="0.090"/>
+  <Test>
+    <Name>2 UEs, distance 2400 m, TB size 66</Name>
+    <Result>PASS</Result>
+    <Time real="2.570" user="2.450" system="0.080"/>
+  </Test>
+  <Test>
+    <Name>1 UEs, distance 770 m, TB size 472</Name>
+    <Result>PASS</Result>
+    <Time real="1.680" user="1.640" system="0.010"/>
+  </Test>
+</Test>

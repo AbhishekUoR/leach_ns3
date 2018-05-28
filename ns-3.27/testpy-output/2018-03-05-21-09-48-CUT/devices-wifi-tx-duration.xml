@@ -1,0 +1,10 @@
+<Test>
+  <Name>devices-wifi-tx-duration</Name>
+  <Result>PASS</Result>
+  <Time real="0.050" user="0.040" system="0.000"/>
+  <Test>
+    <Name>Wifi TX Duration</Name>
+    <Result>PASS</Result>
+    <Time real="0.050" user="0.040" system="0.000"/>
+  </Test>
+</Test>

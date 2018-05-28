@@ -1,0 +1,25 @@
+<Test>
+  <Name>lte-downlink-sinr</Name>
+  <Result>PASS</Result>
+  <Time real="0.000" user="0.000" system="0.000"/>
+  <Test>
+    <Name>SINR calculation in downlink Data frame: sdBm = [-46 -48]</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>SINR calculation in downlink Ctrl Frame: sdBm = [-46 -48]</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>SINR calculation in downlink Data frame: sdBm = [-63 -61]</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>SINR calculation in downlink Ctrl Frame: sdBm = [-63 -61]</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+</Test>

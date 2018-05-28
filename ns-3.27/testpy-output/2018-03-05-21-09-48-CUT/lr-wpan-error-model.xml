@@ -1,0 +1,15 @@
+<Test>
+  <Name>lr-wpan-error-model</Name>
+  <Result>PASS</Result>
+  <Time real="0.290" user="0.270" system="0.000"/>
+  <Test>
+    <Name>Test the 802.15.4 error model</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test the 802.15.4 error model vs distance</Name>
+    <Result>PASS</Result>
+    <Time real="0.280" user="0.270" system="0.000"/>
+  </Test>
+</Test>

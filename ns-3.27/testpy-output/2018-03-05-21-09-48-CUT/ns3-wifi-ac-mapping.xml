@@ -1,0 +1,25 @@
+<Test>
+  <Name>ns3-wifi-ac-mapping</Name>
+  <Result>PASS</Result>
+  <Time real="0.110" user="0.120" system="0.000"/>
+  <Test>
+    <Name>User priority to Access Category mapping test. Checks that packets areenqueued in the correct child queue disc of the mq root queue disc andin the correct wifi MAC queue</Name>
+    <Result>PASS</Result>
+    <Time real="0.050" user="0.060" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>User priority to Access Category mapping test. Checks that packets areenqueued in the correct child queue disc of the mq root queue disc andin the correct wifi MAC queue</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>User priority to Access Category mapping test. Checks that packets areenqueued in the correct child queue disc of the mq root queue disc andin the correct wifi MAC queue</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>User priority to Access Category mapping test. Checks that packets areenqueued in the correct child queue disc of the mq root queue disc andin the correct wifi MAC queue</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.020" system="0.000"/>
+  </Test>
+</Test>

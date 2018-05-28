@@ -1,0 +1,15 @@
+<Test>
+  <Name>lte-tta-ff-mac-scheduler</Name>
+  <Result>PASS</Result>
+  <Time real="2.790" user="2.710" system="0.040"/>
+  <Test>
+    <Name>3 UEs, distance 0 m</Name>
+    <Result>PASS</Result>
+    <Time real="2.470" user="2.390" system="0.040"/>
+  </Test>
+  <Test>
+    <Name>1 UEs, distance 100000 m</Name>
+    <Result>PASS</Result>
+    <Time real="0.320" user="0.320" system="0.000"/>
+  </Test>
+</Test>

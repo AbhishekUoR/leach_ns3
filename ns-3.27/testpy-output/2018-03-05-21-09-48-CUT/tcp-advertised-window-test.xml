@@ -1,0 +1,35 @@
+<Test>
+  <Name>tcp-advertised-window-test</Name>
+  <Result>PASS</Result>
+  <Time real="0.300" user="0.290" system="0.000"/>
+  <Test>
+    <Name>TCP advertised window size, small seg + no loss</Name>
+    <Result>PASS</Result>
+    <Time real="0.040" user="0.040" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>TCP advertised window size, small seg + loss</Name>
+    <Result>PASS</Result>
+    <Time real="0.030" user="0.040" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>TCP advertised window size, large seg + no loss</Name>
+    <Result>PASS</Result>
+    <Time real="0.060" user="0.060" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>TCP advertised window size, large seg + small loss</Name>
+    <Result>PASS</Result>
+    <Time real="0.070" user="0.070" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>TCP advertised window size, large seg + big loss</Name>
+    <Result>PASS</Result>
+    <Time real="0.090" user="0.080" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>TCP advertised window size, complete loss</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+</Test>

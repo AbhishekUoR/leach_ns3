@@ -1,0 +1,50 @@
+<Test>
+  <Name>ns3-tcp-state</Name>
+  <Result>PASS</Result>
+  <Time real="0.150" user="0.130" system="0.000"/>
+  <Test>
+    <Name>Check the operation of the TCP state machine for several cases</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Check the operation of the TCP state machine for several cases</Name>
+    <Result>PASS</Result>
+    <Time real="0.060" user="0.060" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Check the operation of the TCP state machine for several cases</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Check the operation of the TCP state machine for several cases</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Check the operation of the TCP state machine for several cases</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Check the operation of the TCP state machine for several cases</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Check the operation of the TCP state machine for several cases</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Check the operation of the TCP state machine for several cases</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Check the operation of the TCP state machine for several cases</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+</Test>

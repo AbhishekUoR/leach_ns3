@@ -1,0 +1,40 @@
+<Test>
+  <Name>devices-wifi</Name>
+  <Result>PASS</Result>
+  <Time real="0.390" user="0.370" system="0.000"/>
+  <Test>
+    <Name>Wifi</Name>
+    <Result>PASS</Result>
+    <Time real="0.180" user="0.180" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>QosUtilsIsOldPacket</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>InterferenceHelperSequence</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test case for DCF immediate access with broadcast frames</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test case for Bug 730</Name>
+    <Result>PASS</Result>
+    <Time real="0.160" user="0.160" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test case for setting WifiPhy channel and frequency</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test case for Bug 2222</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.000" system="0.000"/>
+  </Test>
+</Test>

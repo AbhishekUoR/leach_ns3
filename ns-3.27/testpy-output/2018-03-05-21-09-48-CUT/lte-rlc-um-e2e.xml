@@ -1,0 +1,10 @@
+<Test>
+  <Name>lte-rlc-um-e2e</Name>
+  <Result>PASS</Result>
+  <Time real="0.170" user="0.170" system="0.000"/>
+  <Test>
+    <Name> Losses = 0.1%. Seed = 1111</Name>
+    <Result>PASS</Result>
+    <Time real="0.170" user="0.170" system="0.000"/>
+  </Test>
+</Test>

@@ -1,0 +1,45 @@
+<Test>
+  <Name>epc-s1u-downlink</Name>
+  <Result>PASS</Result>
+  <Time real="0.140" user="0.130" system="0.000"/>
+  <Test>
+    <Name>1 eNB, 1UE</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>1 eNB, 2UEs</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>2 eNBs</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>3 eNBs</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>1 eNB, 10 pkts 3000 bytes each</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>1 eNB, 50 pkts 3000 bytes each</Name>
+    <Result>PASS</Result>
+    <Time real="0.030" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>1 eNB, 10 pkts 15000 bytes each</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>1 eNB, 100 pkts 15000 bytes each</Name>
+    <Result>PASS</Result>
+    <Time real="0.030" user="0.040" system="0.000"/>
+  </Test>
+</Test>

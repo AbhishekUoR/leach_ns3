@@ -1,0 +1,1 @@
+paste -d" " direct_simulation.txt leach_simulation.txt >> new

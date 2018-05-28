@@ -1,0 +1,10 @@
+<Test>
+  <Name>tcp-zero-window-test</Name>
+  <Result>PASS</Result>
+  <Time real="0.020" user="0.020" system="0.000"/>
+  <Test>
+    <Name>zero window test</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.020" system="0.000"/>
+  </Test>
+</Test>

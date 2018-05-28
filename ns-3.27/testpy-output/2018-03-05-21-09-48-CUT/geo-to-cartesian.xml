@@ -1,0 +1,3245 @@
+<Test>
+  <Name>geo-to-cartesian</Name>
+  <Result>PASS</Result>
+  <Time real="0.000" user="0.000" system="0.000"/>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 0 degrees, altitude = 0 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 72 degrees, altitude = 0 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 144 degrees, altitude = 0 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 216 degrees, altitude = 0 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 288 degrees, altitude = 0 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 360 degrees, altitude = 0 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 0 degrees, altitude = 0 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 72 degrees, altitude = 0 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 144 degrees, altitude = 0 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 216 degrees, altitude = 0 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 288 degrees, altitude = 0 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 360 degrees, altitude = 0 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 0 degrees, altitude = 0 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 72 degrees, altitude = 0 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 144 degrees, altitude = 0 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 216 degrees, altitude = 0 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 288 degrees, altitude = 0 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 360 degrees, altitude = 0 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 0 degrees, altitude = 0 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 72 degrees, altitude = 0 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 144 degrees, altitude = 0 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 216 degrees, altitude = 0 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 288 degrees, altitude = 0 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 360 degrees, altitude = 0 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 0 degrees, altitude = 0 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 72 degrees, altitude = 0 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 144 degrees, altitude = 0 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 216 degrees, altitude = 0 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 288 degrees, altitude = 0 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 360 degrees, altitude = 0 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 0 degrees, altitude = 0 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 72 degrees, altitude = 0 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 144 degrees, altitude = 0 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 216 degrees, altitude = 0 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 288 degrees, altitude = 0 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 360 degrees, altitude = 0 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 0 degrees, altitude = 200 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 72 degrees, altitude = 200 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 144 degrees, altitude = 200 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 216 degrees, altitude = 200 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 288 degrees, altitude = 200 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 360 degrees, altitude = 200 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 0 degrees, altitude = 200 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 72 degrees, altitude = 200 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 144 degrees, altitude = 200 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 216 degrees, altitude = 200 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 288 degrees, altitude = 200 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 360 degrees, altitude = 200 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 0 degrees, altitude = 200 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 72 degrees, altitude = 200 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 144 degrees, altitude = 200 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 216 degrees, altitude = 200 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 288 degrees, altitude = 200 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 360 degrees, altitude = 200 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 0 degrees, altitude = 200 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 72 degrees, altitude = 200 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 144 degrees, altitude = 200 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 216 degrees, altitude = 200 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 288 degrees, altitude = 200 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 360 degrees, altitude = 200 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 0 degrees, altitude = 200 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 72 degrees, altitude = 200 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 144 degrees, altitude = 200 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 216 degrees, altitude = 200 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 288 degrees, altitude = 200 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 360 degrees, altitude = 200 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 0 degrees, altitude = 200 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 72 degrees, altitude = 200 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 144 degrees, altitude = 200 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 216 degrees, altitude = 200 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 288 degrees, altitude = 200 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 360 degrees, altitude = 200 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 0 degrees, altitude = 400 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 72 degrees, altitude = 400 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 144 degrees, altitude = 400 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 216 degrees, altitude = 400 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 288 degrees, altitude = 400 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 360 degrees, altitude = 400 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 0 degrees, altitude = 400 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 72 degrees, altitude = 400 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 144 degrees, altitude = 400 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 216 degrees, altitude = 400 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 288 degrees, altitude = 400 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 360 degrees, altitude = 400 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 0 degrees, altitude = 400 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 72 degrees, altitude = 400 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 144 degrees, altitude = 400 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 216 degrees, altitude = 400 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 288 degrees, altitude = 400 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 360 degrees, altitude = 400 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 0 degrees, altitude = 400 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 72 degrees, altitude = 400 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 144 degrees, altitude = 400 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 216 degrees, altitude = 400 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 288 degrees, altitude = 400 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 360 degrees, altitude = 400 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 0 degrees, altitude = 400 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 72 degrees, altitude = 400 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 144 degrees, altitude = 400 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 216 degrees, altitude = 400 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 288 degrees, altitude = 400 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 360 degrees, altitude = 400 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 0 degrees, altitude = 400 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 72 degrees, altitude = 400 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 144 degrees, altitude = 400 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 216 degrees, altitude = 400 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 288 degrees, altitude = 400 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 360 degrees, altitude = 400 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 0 degrees, altitude = 600 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 72 degrees, altitude = 600 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 144 degrees, altitude = 600 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 216 degrees, altitude = 600 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 288 degrees, altitude = 600 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 360 degrees, altitude = 600 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 0 degrees, altitude = 600 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 72 degrees, altitude = 600 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 144 degrees, altitude = 600 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 216 degrees, altitude = 600 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 288 degrees, altitude = 600 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 360 degrees, altitude = 600 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 0 degrees, altitude = 600 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 72 degrees, altitude = 600 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 144 degrees, altitude = 600 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 216 degrees, altitude = 600 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 288 degrees, altitude = 600 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 360 degrees, altitude = 600 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 0 degrees, altitude = 600 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 72 degrees, altitude = 600 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 144 degrees, altitude = 600 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 216 degrees, altitude = 600 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 288 degrees, altitude = 600 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 360 degrees, altitude = 600 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 0 degrees, altitude = 600 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 72 degrees, altitude = 600 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 144 degrees, altitude = 600 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 216 degrees, altitude = 600 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 288 degrees, altitude = 600 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 360 degrees, altitude = 600 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 0 degrees, altitude = 600 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 72 degrees, altitude = 600 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 144 degrees, altitude = 600 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 216 degrees, altitude = 600 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 288 degrees, altitude = 600 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 360 degrees, altitude = 600 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 0 degrees, altitude = 800 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 72 degrees, altitude = 800 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 144 degrees, altitude = 800 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 216 degrees, altitude = 800 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 288 degrees, altitude = 800 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 360 degrees, altitude = 800 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 0 degrees, altitude = 800 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 72 degrees, altitude = 800 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 144 degrees, altitude = 800 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 216 degrees, altitude = 800 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 288 degrees, altitude = 800 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 360 degrees, altitude = 800 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 0 degrees, altitude = 800 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 72 degrees, altitude = 800 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 144 degrees, altitude = 800 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 216 degrees, altitude = 800 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 288 degrees, altitude = 800 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 360 degrees, altitude = 800 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 0 degrees, altitude = 800 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 72 degrees, altitude = 800 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 144 degrees, altitude = 800 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 216 degrees, altitude = 800 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 288 degrees, altitude = 800 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 360 degrees, altitude = 800 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 0 degrees, altitude = 800 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 72 degrees, altitude = 800 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 144 degrees, altitude = 800 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 216 degrees, altitude = 800 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 288 degrees, altitude = 800 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 360 degrees, altitude = 800 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 0 degrees, altitude = 800 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 72 degrees, altitude = 800 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 144 degrees, altitude = 800 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 216 degrees, altitude = 800 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 288 degrees, altitude = 800 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 360 degrees, altitude = 800 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 0 degrees, altitude = 1000 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 72 degrees, altitude = 1000 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 144 degrees, altitude = 1000 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 216 degrees, altitude = 1000 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 288 degrees, altitude = 1000 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 360 degrees, altitude = 1000 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 0 degrees, altitude = 1000 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 72 degrees, altitude = 1000 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 144 degrees, altitude = 1000 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 216 degrees, altitude = 1000 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 288 degrees, altitude = 1000 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 360 degrees, altitude = 1000 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 0 degrees, altitude = 1000 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 72 degrees, altitude = 1000 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 144 degrees, altitude = 1000 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 216 degrees, altitude = 1000 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 288 degrees, altitude = 1000 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 360 degrees, altitude = 1000 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 0 degrees, altitude = 1000 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 72 degrees, altitude = 1000 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 144 degrees, altitude = 1000 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 216 degrees, altitude = 1000 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 288 degrees, altitude = 1000 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 360 degrees, altitude = 1000 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 0 degrees, altitude = 1000 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 72 degrees, altitude = 1000 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 144 degrees, altitude = 1000 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 216 degrees, altitude = 1000 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 288 degrees, altitude = 1000 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 360 degrees, altitude = 1000 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 0 degrees, altitude = 1000 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 72 degrees, altitude = 1000 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 144 degrees, altitude = 1000 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 216 degrees, altitude = 1000 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 288 degrees, altitude = 1000 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 360 degrees, altitude = 1000 meters, earth spheroid type = 0</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 0 degrees, altitude = 0 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 72 degrees, altitude = 0 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 144 degrees, altitude = 0 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 216 degrees, altitude = 0 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 288 degrees, altitude = 0 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 360 degrees, altitude = 0 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 0 degrees, altitude = 0 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 72 degrees, altitude = 0 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 144 degrees, altitude = 0 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 216 degrees, altitude = 0 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 288 degrees, altitude = 0 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 360 degrees, altitude = 0 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 0 degrees, altitude = 0 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 72 degrees, altitude = 0 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 144 degrees, altitude = 0 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 216 degrees, altitude = 0 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 288 degrees, altitude = 0 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 360 degrees, altitude = 0 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 0 degrees, altitude = 0 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 72 degrees, altitude = 0 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 144 degrees, altitude = 0 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 216 degrees, altitude = 0 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 288 degrees, altitude = 0 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 360 degrees, altitude = 0 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 0 degrees, altitude = 0 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 72 degrees, altitude = 0 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 144 degrees, altitude = 0 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 216 degrees, altitude = 0 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 288 degrees, altitude = 0 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 360 degrees, altitude = 0 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 0 degrees, altitude = 0 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 72 degrees, altitude = 0 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 144 degrees, altitude = 0 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 216 degrees, altitude = 0 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 288 degrees, altitude = 0 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 360 degrees, altitude = 0 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 0 degrees, altitude = 200 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 72 degrees, altitude = 200 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 144 degrees, altitude = 200 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 216 degrees, altitude = 200 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 288 degrees, altitude = 200 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 360 degrees, altitude = 200 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 0 degrees, altitude = 200 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 72 degrees, altitude = 200 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 144 degrees, altitude = 200 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 216 degrees, altitude = 200 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 288 degrees, altitude = 200 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 360 degrees, altitude = 200 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 0 degrees, altitude = 200 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 72 degrees, altitude = 200 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 144 degrees, altitude = 200 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 216 degrees, altitude = 200 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 288 degrees, altitude = 200 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 360 degrees, altitude = 200 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 0 degrees, altitude = 200 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 72 degrees, altitude = 200 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 144 degrees, altitude = 200 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 216 degrees, altitude = 200 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 288 degrees, altitude = 200 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 360 degrees, altitude = 200 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 0 degrees, altitude = 200 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 72 degrees, altitude = 200 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 144 degrees, altitude = 200 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 216 degrees, altitude = 200 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 288 degrees, altitude = 200 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 360 degrees, altitude = 200 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 0 degrees, altitude = 200 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 72 degrees, altitude = 200 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 144 degrees, altitude = 200 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 216 degrees, altitude = 200 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 288 degrees, altitude = 200 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 360 degrees, altitude = 200 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 0 degrees, altitude = 400 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 72 degrees, altitude = 400 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 144 degrees, altitude = 400 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 216 degrees, altitude = 400 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 288 degrees, altitude = 400 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 360 degrees, altitude = 400 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 0 degrees, altitude = 400 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 72 degrees, altitude = 400 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 144 degrees, altitude = 400 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 216 degrees, altitude = 400 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 288 degrees, altitude = 400 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 360 degrees, altitude = 400 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 0 degrees, altitude = 400 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 72 degrees, altitude = 400 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 144 degrees, altitude = 400 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 216 degrees, altitude = 400 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 288 degrees, altitude = 400 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 360 degrees, altitude = 400 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 0 degrees, altitude = 400 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 72 degrees, altitude = 400 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 144 degrees, altitude = 400 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 216 degrees, altitude = 400 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 288 degrees, altitude = 400 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 360 degrees, altitude = 400 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 0 degrees, altitude = 400 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 72 degrees, altitude = 400 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 144 degrees, altitude = 400 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 216 degrees, altitude = 400 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 288 degrees, altitude = 400 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 360 degrees, altitude = 400 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 0 degrees, altitude = 400 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 72 degrees, altitude = 400 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 144 degrees, altitude = 400 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 216 degrees, altitude = 400 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 288 degrees, altitude = 400 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 360 degrees, altitude = 400 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 0 degrees, altitude = 600 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 72 degrees, altitude = 600 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 144 degrees, altitude = 600 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 216 degrees, altitude = 600 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 288 degrees, altitude = 600 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 360 degrees, altitude = 600 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 0 degrees, altitude = 600 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 72 degrees, altitude = 600 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 144 degrees, altitude = 600 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 216 degrees, altitude = 600 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 288 degrees, altitude = 600 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 360 degrees, altitude = 600 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 0 degrees, altitude = 600 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 72 degrees, altitude = 600 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 144 degrees, altitude = 600 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 216 degrees, altitude = 600 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 288 degrees, altitude = 600 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 360 degrees, altitude = 600 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 0 degrees, altitude = 600 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 72 degrees, altitude = 600 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 144 degrees, altitude = 600 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 216 degrees, altitude = 600 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 288 degrees, altitude = 600 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 360 degrees, altitude = 600 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 0 degrees, altitude = 600 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 72 degrees, altitude = 600 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 144 degrees, altitude = 600 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 216 degrees, altitude = 600 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 288 degrees, altitude = 600 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 360 degrees, altitude = 600 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 0 degrees, altitude = 600 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 72 degrees, altitude = 600 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 144 degrees, altitude = 600 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 216 degrees, altitude = 600 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 288 degrees, altitude = 600 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 360 degrees, altitude = 600 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 0 degrees, altitude = 800 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 72 degrees, altitude = 800 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 144 degrees, altitude = 800 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 216 degrees, altitude = 800 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 288 degrees, altitude = 800 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 360 degrees, altitude = 800 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 0 degrees, altitude = 800 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 72 degrees, altitude = 800 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 144 degrees, altitude = 800 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 216 degrees, altitude = 800 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 288 degrees, altitude = 800 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 360 degrees, altitude = 800 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 0 degrees, altitude = 800 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 72 degrees, altitude = 800 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 144 degrees, altitude = 800 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 216 degrees, altitude = 800 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 288 degrees, altitude = 800 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 360 degrees, altitude = 800 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 0 degrees, altitude = 800 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 72 degrees, altitude = 800 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 144 degrees, altitude = 800 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 216 degrees, altitude = 800 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 288 degrees, altitude = 800 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 360 degrees, altitude = 800 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 0 degrees, altitude = 800 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 72 degrees, altitude = 800 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 144 degrees, altitude = 800 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 216 degrees, altitude = 800 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 288 degrees, altitude = 800 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 360 degrees, altitude = 800 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 0 degrees, altitude = 800 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 72 degrees, altitude = 800 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 144 degrees, altitude = 800 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 216 degrees, altitude = 800 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 288 degrees, altitude = 800 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 360 degrees, altitude = 800 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 0 degrees, altitude = 1000 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 72 degrees, altitude = 1000 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 144 degrees, altitude = 1000 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 216 degrees, altitude = 1000 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 288 degrees, altitude = 1000 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 360 degrees, altitude = 1000 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 0 degrees, altitude = 1000 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 72 degrees, altitude = 1000 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 144 degrees, altitude = 1000 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 216 degrees, altitude = 1000 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 288 degrees, altitude = 1000 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 360 degrees, altitude = 1000 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 0 degrees, altitude = 1000 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 72 degrees, altitude = 1000 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 144 degrees, altitude = 1000 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 216 degrees, altitude = 1000 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 288 degrees, altitude = 1000 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 360 degrees, altitude = 1000 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 0 degrees, altitude = 1000 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 72 degrees, altitude = 1000 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 144 degrees, altitude = 1000 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 216 degrees, altitude = 1000 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 288 degrees, altitude = 1000 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 360 degrees, altitude = 1000 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 0 degrees, altitude = 1000 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 72 degrees, altitude = 1000 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 144 degrees, altitude = 1000 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 216 degrees, altitude = 1000 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 288 degrees, altitude = 1000 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 360 degrees, altitude = 1000 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 0 degrees, altitude = 1000 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 72 degrees, altitude = 1000 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 144 degrees, altitude = 1000 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 216 degrees, altitude = 1000 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 288 degrees, altitude = 1000 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 360 degrees, altitude = 1000 meters, earth spheroid type = 1</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 0 degrees, altitude = 0 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 72 degrees, altitude = 0 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 144 degrees, altitude = 0 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 216 degrees, altitude = 0 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 288 degrees, altitude = 0 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 360 degrees, altitude = 0 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 0 degrees, altitude = 0 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 72 degrees, altitude = 0 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 144 degrees, altitude = 0 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 216 degrees, altitude = 0 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 288 degrees, altitude = 0 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 360 degrees, altitude = 0 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 0 degrees, altitude = 0 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 72 degrees, altitude = 0 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 144 degrees, altitude = 0 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 216 degrees, altitude = 0 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 288 degrees, altitude = 0 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 360 degrees, altitude = 0 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 0 degrees, altitude = 0 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 72 degrees, altitude = 0 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 144 degrees, altitude = 0 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 216 degrees, altitude = 0 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 288 degrees, altitude = 0 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 360 degrees, altitude = 0 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 0 degrees, altitude = 0 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 72 degrees, altitude = 0 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 144 degrees, altitude = 0 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 216 degrees, altitude = 0 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 288 degrees, altitude = 0 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 360 degrees, altitude = 0 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 0 degrees, altitude = 0 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 72 degrees, altitude = 0 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 144 degrees, altitude = 0 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 216 degrees, altitude = 0 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 288 degrees, altitude = 0 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 360 degrees, altitude = 0 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 0 degrees, altitude = 200 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 72 degrees, altitude = 200 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 144 degrees, altitude = 200 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 216 degrees, altitude = 200 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 288 degrees, altitude = 200 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 360 degrees, altitude = 200 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 0 degrees, altitude = 200 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 72 degrees, altitude = 200 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 144 degrees, altitude = 200 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 216 degrees, altitude = 200 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 288 degrees, altitude = 200 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 360 degrees, altitude = 200 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 0 degrees, altitude = 200 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 72 degrees, altitude = 200 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 144 degrees, altitude = 200 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 216 degrees, altitude = 200 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 288 degrees, altitude = 200 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 360 degrees, altitude = 200 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 0 degrees, altitude = 200 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 72 degrees, altitude = 200 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 144 degrees, altitude = 200 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 216 degrees, altitude = 200 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 288 degrees, altitude = 200 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 360 degrees, altitude = 200 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 0 degrees, altitude = 200 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 72 degrees, altitude = 200 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 144 degrees, altitude = 200 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 216 degrees, altitude = 200 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 288 degrees, altitude = 200 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 360 degrees, altitude = 200 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 0 degrees, altitude = 200 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 72 degrees, altitude = 200 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 144 degrees, altitude = 200 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 216 degrees, altitude = 200 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 288 degrees, altitude = 200 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 360 degrees, altitude = 200 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 0 degrees, altitude = 400 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 72 degrees, altitude = 400 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 144 degrees, altitude = 400 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 216 degrees, altitude = 400 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 288 degrees, altitude = 400 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 360 degrees, altitude = 400 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 0 degrees, altitude = 400 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 72 degrees, altitude = 400 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 144 degrees, altitude = 400 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 216 degrees, altitude = 400 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 288 degrees, altitude = 400 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 360 degrees, altitude = 400 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 0 degrees, altitude = 400 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 72 degrees, altitude = 400 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 144 degrees, altitude = 400 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 216 degrees, altitude = 400 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 288 degrees, altitude = 400 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 360 degrees, altitude = 400 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 0 degrees, altitude = 400 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 72 degrees, altitude = 400 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 144 degrees, altitude = 400 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 216 degrees, altitude = 400 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 288 degrees, altitude = 400 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 360 degrees, altitude = 400 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 0 degrees, altitude = 400 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 72 degrees, altitude = 400 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 144 degrees, altitude = 400 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 216 degrees, altitude = 400 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 288 degrees, altitude = 400 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 360 degrees, altitude = 400 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 0 degrees, altitude = 400 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 72 degrees, altitude = 400 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 144 degrees, altitude = 400 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 216 degrees, altitude = 400 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 288 degrees, altitude = 400 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 360 degrees, altitude = 400 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 0 degrees, altitude = 600 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 72 degrees, altitude = 600 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 144 degrees, altitude = 600 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 216 degrees, altitude = 600 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 288 degrees, altitude = 600 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 360 degrees, altitude = 600 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 0 degrees, altitude = 600 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 72 degrees, altitude = 600 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 144 degrees, altitude = 600 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 216 degrees, altitude = 600 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 288 degrees, altitude = 600 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 360 degrees, altitude = 600 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 0 degrees, altitude = 600 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 72 degrees, altitude = 600 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 144 degrees, altitude = 600 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 216 degrees, altitude = 600 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 288 degrees, altitude = 600 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 360 degrees, altitude = 600 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 0 degrees, altitude = 600 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 72 degrees, altitude = 600 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 144 degrees, altitude = 600 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 216 degrees, altitude = 600 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 288 degrees, altitude = 600 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 360 degrees, altitude = 600 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 0 degrees, altitude = 600 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 72 degrees, altitude = 600 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 144 degrees, altitude = 600 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 216 degrees, altitude = 600 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 288 degrees, altitude = 600 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 360 degrees, altitude = 600 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 0 degrees, altitude = 600 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 72 degrees, altitude = 600 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 144 degrees, altitude = 600 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 216 degrees, altitude = 600 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 288 degrees, altitude = 600 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 360 degrees, altitude = 600 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 0 degrees, altitude = 800 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 72 degrees, altitude = 800 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 144 degrees, altitude = 800 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 216 degrees, altitude = 800 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 288 degrees, altitude = 800 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 360 degrees, altitude = 800 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 0 degrees, altitude = 800 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 72 degrees, altitude = 800 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 144 degrees, altitude = 800 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 216 degrees, altitude = 800 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 288 degrees, altitude = 800 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 360 degrees, altitude = 800 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 0 degrees, altitude = 800 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 72 degrees, altitude = 800 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 144 degrees, altitude = 800 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 216 degrees, altitude = 800 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 288 degrees, altitude = 800 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 360 degrees, altitude = 800 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 0 degrees, altitude = 800 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 72 degrees, altitude = 800 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 144 degrees, altitude = 800 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 216 degrees, altitude = 800 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 288 degrees, altitude = 800 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 360 degrees, altitude = 800 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 0 degrees, altitude = 800 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 72 degrees, altitude = 800 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 144 degrees, altitude = 800 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 216 degrees, altitude = 800 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 288 degrees, altitude = 800 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 360 degrees, altitude = 800 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 0 degrees, altitude = 800 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 72 degrees, altitude = 800 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 144 degrees, altitude = 800 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 216 degrees, altitude = 800 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 288 degrees, altitude = 800 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 360 degrees, altitude = 800 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 0 degrees, altitude = 1000 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 72 degrees, altitude = 1000 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 144 degrees, altitude = 1000 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 216 degrees, altitude = 1000 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 288 degrees, altitude = 1000 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 0 degrees, longitude = 360 degrees, altitude = 1000 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 0 degrees, altitude = 1000 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 72 degrees, altitude = 1000 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 144 degrees, altitude = 1000 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 216 degrees, altitude = 1000 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 288 degrees, altitude = 1000 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 72 degrees, longitude = 360 degrees, altitude = 1000 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 0 degrees, altitude = 1000 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 72 degrees, altitude = 1000 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 144 degrees, altitude = 1000 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 216 degrees, altitude = 1000 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 288 degrees, altitude = 1000 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 144 degrees, longitude = 360 degrees, altitude = 1000 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 0 degrees, altitude = 1000 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 72 degrees, altitude = 1000 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 144 degrees, altitude = 1000 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 216 degrees, altitude = 1000 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 288 degrees, altitude = 1000 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 216 degrees, longitude = 360 degrees, altitude = 1000 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 0 degrees, altitude = 1000 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 72 degrees, altitude = 1000 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 144 degrees, altitude = 1000 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 216 degrees, altitude = 1000 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 288 degrees, altitude = 1000 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 288 degrees, longitude = 360 degrees, altitude = 1000 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 0 degrees, altitude = 1000 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 72 degrees, altitude = 1000 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 144 degrees, altitude = 1000 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 216 degrees, altitude = 1000 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 288 degrees, altitude = 1000 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>latitude = 360 degrees, longitude = 360 degrees, altitude = 1000 meters, earth spheroid type = 2</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+</Test>

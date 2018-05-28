@@ -1,0 +1,20 @@
+<Test>
+  <Name>routing-olsr-regression</Name>
+  <Result>PASS</Result>
+  <Time real="0.230" user="0.220" system="0.000"/>
+  <Test>
+    <Name>Test OLSR Hello messages generation</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test OLSR Topology Control message generation</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test OLSR bug 780</Name>
+    <Result>PASS</Result>
+    <Time real="0.190" user="0.190" system="0.000"/>
+  </Test>
+</Test>

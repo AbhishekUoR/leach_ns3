@@ -1,0 +1,10 @@
+<Test>
+  <Name>ns3-wifi-msdu-aggregator</Name>
+  <Result>PASS</Result>
+  <Time real="0.900" user="0.860" system="0.000"/>
+  <Test>
+    <Name>MsduAggregator throughput test</Name>
+    <Result>PASS</Result>
+    <Time real="0.900" user="0.860" system="0.000"/>
+  </Test>
+</Test>
