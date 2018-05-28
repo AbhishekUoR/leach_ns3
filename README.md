@@ -1,6 +1,6 @@
 # leach_ns3
 Modification to Traditional Leach Clustering Model in ns3 also known as Preprocessing Leach.
-Final Project WSN Spring 2018
+
 
 We(I and Wuxiucheng) have uploaded whole ns3 folder
 In order to run code one need to download/clone leach_ns3 
